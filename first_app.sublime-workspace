@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"httpConf"
+			],
+			[
+				"show",
+				"showall"
+			],
+			[
+				"lo",
+				"locator"
+			],
+			[
+				"htt",
+				"httpConf"
+			],
+			[
+				"user",
+				"userCredentials"
+			],
+			[
+				"sub",
+				"submit_button"
+			],
+			[
+				"Comp",
+				"ComponentModule"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"fi",
+				"fill_login_form"
+			],
+			[
+				"pass",
+				"password_field"
+			],
+			[
+				"passwor",
+				"password"
+			],
+			[
+				"Com",
+				"ComponentModule"
+			],
+			[
+				"tradest",
+				"tradestone"
+			],
+			[
+				"ht",
+				"httpConf"
+			],
+			[
+				"h",
+				"httpConf"
+			],
+			[
+				"gap",
+				"gap_logo"
+			],
+			[
+				"su",
+				"submit_offer"
+			],
+			[
+				"14",
+				"140321_Main"
+			],
+			[
+				"f",
+				"favicon"
+			],
+			[
+				"use",
+				"userCredentials"
+			],
+			[
+				"p",
+				"protocolConfig"
+			],
+			[
+				"tra",
+				"tradestone"
+			],
+			[
+				"ga",
+				"gap_logo_lsmall"
+			],
+			[
+				"scr",
+				"screen2012R2FP12-min"
+			],
+			[
+				"Lo",
+				"logout"
+			],
+			[
+				"comm",
+				"commentsnodata"
+			],
+			[
+				"comme",
+				"comments2012R2FP12-min"
+			],
+			[
+				"va",
+				"valsearch"
+			],
+			[
+				"text",
+				"text_icon"
+			],
+			[
+				"image",
+				"imagestore"
+			],
+			[
+				"pro",
+				"prototype-extn2012R2FP12-min"
+			],
+			[
+				"ex",
+				"excel_icon"
+			],
+			[
+				"po",
+				"powerpoint_icon"
+			],
+			[
+				"quer",
+				"queryviewer"
+			],
+			[
+				"auto",
+				"autosuggestsourcing2012R2FP12-min"
+			],
+			[
+				"autos",
+				"autosuggestsourcing2012R2FP12-min"
+			],
+			[
+				"too",
+				"toolset2012R2FP12-min"
+			],
+			[
+				"see",
+				"sessionmanagement"
+			],
+			[
+				"main",
+				"main2012R2FP12-min"
+			],
+			[
+				"html",
+				"htmlAjax2012R2FP12-min"
+			],
+			[
+				"fa",
+				"favorites2012R2FP12-min"
+			],
+			[
+				"coo",
+				"coolmenu2012R2FP12-min"
+			],
+			[
+				"htm",
+				"htmlcomponents2012R2FP12-min"
+			],
+			[
+				"gapL",
+				"gap_logo_lsmall"
+			],
+			[
+				"cool",
+				"coolmenus42012R2FP12-min"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 766,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AC-PBH40/Desktop/quote.xsd",
+		"/C/Users/AC-PBH40/Desktop/something.xml",
+		"/C/Users/AC-PBH40/.ssh/id_rsa.pub",
+		"/C/Users/AC-PBH40/.ssh/known_hosts",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/ShowAllRecordsCostDetailsForCT.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStoneAddingMultipleOptions.scala",
+		"/C/Users/AC-PBH40/Desktop/login.rb",
+		"/C/Users/AC-PBH40/Desktop/default_component.rb",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/User Queries/create_500_cts.sql",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/showall/ShowAllPerformanceTest.scala",
+		"/C/Users/AC-PBH40/Desktop/text_box.rb",
+		"/C/Users/AC-PBH40/Desktop/browser.rb",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/ShowAllRecordsCostDetailsForGP.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/showall/ShowAllRecordsForCT.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStoneFlowForAdmin.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStoneFlowForVendor.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStoneFlowForGP.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStonePerformanceTest.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStoneFlowForGlobalProduction.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneAddingMultipleOptions.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/basic/BasicExampleSimulation.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneFlowForGP.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneFlowForGlobalProduction.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneFlowForVendor.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/showall/ShowAllPerformanceTest.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/showall/ShowAllRecordsForGP.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/showall/ShowAllRecordsForVendor.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/showall/ShowAllRecordsForCT.scala",
+		"/C/Users/AC-PBH40/Desktop/ShowAllPerformanceTest.scala",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/gatling_test_plans/user-files/simulations/tradestone/TradeStoneFlowForCT.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/showall/ShowAllRecordsForGP.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/showall/ShowAllRecordsForVendor.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStonePerformanceTest.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneFlowForCT.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneFlowForAdmin.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/AddingMultipleOptions.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/data/TS_GP_users.csv",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/data/TS_CT_users.csv",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/data/TS_VENDOR_users.csv",
+		"/C/Users/AC-PBH40/Desktop/create_500_gps.sql",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/advanced/Headers.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/advanced/SomeOtherScenario.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/advanced/AdvancedExampleSimulation.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/advanced/SomeScenario.scala",
+		"/C/Users/AC-PBH40/Documents/286_GiftReceiptOptionForGuestUser_ShippingPage.feature",
+		"/C/Users/AC-PBH40/Desktop/port.sql",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/ShowAllRecordsForGP.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/ShowAllRecordsForCT.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/ShowAllRecordsForVendor.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/showall/ShowAllPerformanceTest",
+		"/C/Users/AC-PBH40/workspace/PLM/BuildStability/src/com/gap/plm/buildstability/CreateBOMTestCase.java",
+		"/C/Users/AC-PBH40/Downloads/po9extract%20-%2002062013%20-%20Round%201.csv.txt",
+		"/C/Users/AC-PBH40/AppData/Local/Temp/Temp1_instantclient-basic-windows.x64-11.2.0.3.0 (1).zip/instantclient_11_2/BASIC_README",
+		"/C/Users/AC-PBH40/Desktop/ITCOLCOST-291.sql",
+		"/C/Program Files (x86)/JetBrains/IntelliJ IDEA 12.0.3/bin/idea.exe.vmoptions",
+		"/C/Users/AC-PBH40/workspace/master-item/application/src/test/java/com/gap/masteritem/controller/ItemControllerIntegrationTest.java",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/TradeStoneFlowForVendor.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStone.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/AdminUserFlow.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/CTUserForTrade.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/conf/application.conf",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/data/TS_ADMIN_users.csv",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/results/TradeStone_Performance_With_Admin_Users-20130218154345/style/style.css",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/conf/gatling.conf",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/bin/gatling.bat",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/TradeStroneCTPerformanceTest.scala",
+		"/C/Users/AC-PBH40/Desktop/tradestone/TradeStoneCTPerformanceTest.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/bin/text.txt",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStoneCTPerformanceTest.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/tradestone/TradeStronePerformanceTest.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/RecordedSimulation.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/simulations/TradeStrone.scala",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/data/TS_users.csv",
+		"/C/Users/AC-PBH40/workspace/costing-tradestone-tests/src/test/perfomance/README/JMETER",
+		"/C/Users/AC-PBH40/workspace/Costing/app/webapp-costing/build.gradle",
+		"/C/Users/AC-PBH40/workspace/Costing/app/webapp-costing/src/test/functional/features/support/env.rb",
+		"/C/Users/AC-PBH40/Desktop/gatling/gatling-charts-highcharts-1.4.3/user-files/data/user_credentials.csv",
+		"/C/Users/AC-PBH40/Desktop/Program.java",
+		"/C/Users/AC-PBH40/Desktop/Program.rb"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"user",
+			"\".post",
+			"\".get",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\\n\\t\\t\\t\\t\\t(.get|.post)\\(\"(.*)\"\\)",
+			".css",
+			"chain",
+			"imagestore",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js)\"\\)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			"((.pause(.*))\\n\\t\\t){2}",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js)\"\\)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			"imagestore",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js)\"\\)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			"imagestore",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js)\"\\)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			"imagesto",
+			".exec\\(http\\(\"(.*)imagestore(.*)\"\\)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js)\"\\)\\n(.*)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js|)\\)\\n(.*)\\n(.*)\\n(.*)\\)\\n\\t\\t",
+			".exec\\(http\\(\"(.*)(.jpg|.css|.ico|.png|.js|)\\)\\n(.*)\\n(.*)\\n(.*)\\)\\n",
+			".exec\\(http\\(\"Get (.*)(.css|.jpg|.png|.ico|.js)\"\\)\\n\\t\\t\\t\\t\\t(.*)\\n\\t\\t\\t\\t\\t(.*)\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\)\\n\\t\\t",
+			".exec\\(http\\(\"Get (.*)(.css|.jpg|.png)\"\\)\\n\\t\\t\\t\\t\\t(.*)\\n\\t\\t\\t\\t\\t(.*)\\n\\t\\t\\t\\t\\t\\n\\t\\t\\t\\)",
+			".check\\(status.is\\((\\d+)\\)\\)",
+			".check(status.is(200))",
+			".check\\(status.is\\((\\d+)\\)\\)",
+			".check\\(status.is\\(404\\)\\)",
+			".check\\(status.is",
+			"\\(\"post",
+			"\\(\"get",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\\n\\t\\t\\t\\t\\t.(get|post)\\(\"(.*)\"\\)",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\\n",
+			"status.is",
+			".param\\(\"\"\"F(\\d+)_(.*)\"\"\", \"\"\"\"\"\"\\)\\n\\t\\t\\t\\t\\t\\t",
+			".param\\(\"\"\"F(\\d+)\"\"\", \"\"\"\"\"\"\\)\\n\\t\\t\\t\\t\\t\\t",
+			".check\\(status.is\\(404\\)\\)",
+			"http\\(\"request_\\d+\"\\)\\n\\t\\t\\t\\t\\t.post\\(\"(.*)\"\\)",
+			"http\\(\"request_\\d+\"\\)\\n\\t\\t\\t\\t\\t.get\\(\"(.*)\"\\)",
+			"http\\(\"request_\\d+\"\\)\\n",
+			"gap@123",
+			"DEV CT(\\d+)",
+			"USER_ID\\n",
+			"DEV GP(\\d+)",
+			"DEV GP(\\d+)\\n\\n",
+			"USER_ID",
+			"(.*)(  )(.*)",
+			"((.*))((  ))((.*))",
+			"(.*)(  )(.*)",
+			"\\.check\\(status.is\\(404\\)\\)",
+			".check\\(status.is\\(404\\)\\)",
+			"\\(404\\)",
+			"ON",
+			"join",
+			"inner",
+			"val cha",
+			"tradestone",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\n					.post\\(\"(.*)\"\\)",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\n					.get\\(\"(.*)\"\\)",
+			"\\t.param\\(\\\"\\\"\\\"(.*)\\\"\\\"\\\"\\, \"\"\"\"\"\"\\)\\n\\t\\t\\t\\t\\t",
+			"\\t.param\\(\\\"\\\"\\\"(.*)\\\"\\\"\\\"\\, \"\"\"\"\"\"\\)\\n",
+			".param\\(\\\"\\\"\\\"(.*)\\\"\\\"\\\"\\, \"\"\"\"\"\"\\)\\N{newline}",
+			".param\\(\\\"\\\"\\\"(.*)\\\"\\\"\\\"\\, \"\"\"\"\"\"\\)",
+			".param(\"\"\"chgflds\"\"\", \"\"\"F0,F50,F51,F47,F150,F159,F161,F167,F156,F153,F157,F162,F148,F151,F170,F182,F187,F183,F49,F48,F128,F130,F146,F191,F1,F43,\"\"\")",
+			"headers_87",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\n					.post\\(\"(.*)\"\\)",
+			".exec\\(http\\(\"request_(\\d+)\"\\)\n					.get\\(\"(.*)\"\\)",
+			"([\\d])(\"\"\"\")",
+			"([\\d])(\\\\\"\"\"\")",
+			"([\\d])(\"\"\"\")",
+			"([\\d])\"\"\"\"",
+			"[\\d]\"\"\"\"",
+			"404|304",
+			"ADMIN",
+			"304",
+			"404",
+			"jsp",
+			"304",
+			"300",
+			"404",
+			"}",
+			"{}",
+			"{",
+			"headers_26",
+			"GP",
+			"(304)",
+			"\\\"\"\"\"\"",
+			"\"\"\"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"\"Post",
+			"\"Get",
+			".exec(http(\"\\2 \\3\")\\n\\t\\t\\t\\t\\t\\2(\"\\3\")",
+			"",
+			"(\"Post",
+			"(\"Get",
+			".exec(http(\"\\2 \\3\")\\n\\t\\t\\t\\t\\t.\\2(\"\\3\")",
+			"",
+			"http(\"Post \\1\")\\n\\t\\t\\t\\t\\t.post(\"\\1\")",
+			"http(\"Get \\1\")\\n\\t\\t\\t\\t\\t.get(\"\\1\")",
+			"http(\"Get \\2\")\\n\\t\\t\\t\\t\\t.get(\"\\2\")",
+			"gap123",
+			"DEV CT\\1,gap123",
+			"",
+			"DEV GP\\1,gap@123",
+			"DEV GP\\1\\n,gap@123",
+			"DEV GP\\1\\n",
+			"DEV GP(\\1)\\n",
+			"",
+			"\\1",
+			"\\1\\2\\3",
+			"\\1",
+			"\\$1",
+			"\\1",
+			" ",
+			"",
+			"(404)",
+			"ON",
+			"JOIN",
+			"INNER",
+			".exec(http(\"Post \\2\")\n					.post(\"\\2\")",
+			".exec(http(\"Get \\2\")\n					.get(\"\\2\")",
+			"",
+			".exec(http(\"Get \\2\")\n					.post(\"\\2\")",
+			".exec(http(\"Get \\2\")\n					.get(\"\\2\")",
+			"\\1\\\\\"\"\"\"\"",
+			"\\1\\\\\"\"\"\"",
+			"\\1\\\"\"\"\"",
+			"\\1\"\"\"\"",
+			"\\1",
+			"$1",
+			"\\$\\1\\\"\"\"\"",
+			"\\$1\\\"\"\"\"",
+			"$1\\\\\"\"\"\"",
+			"$1\\\"\"\"\"",
+			"$1\\\\\"\"\"\"",
+			"$1\\\"\"\"\"",
+			"[\\d]\\\"\"\"\"",
+			"200",
+			"VENDOR",
+			"200",
+			"300",
+			"(200)",
+			"\"\"\"\"\"",
+			"\"\\\"\"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 169.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
